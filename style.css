@@ -1,0 +1,267 @@
+body {
+    margin: 0;
+  }
+  
+  body {
+    background-image: url(data:image/jpeg;base64,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);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  h1 {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+  }
+  .textt{
+    color: white;
+  }
+
+  .head,
+  .left_arm,
+  .torso,
+  .right_arm,
+  .left_leg,
+  .right_leg {
+    background-color: #97eb10;
+  }
+  
+  .head {
+    width: 200px;
+    margin: 0 auto;
+    height: 150px;
+    border-radius: 200px 200px 0 0;
+    margin-bottom: 10px;
+  }
+  
+  .eyes {
+    position: relative;
+    top: 100px;
+  }
+  
+  .left_eye,
+  .right_eye {
+    width: 20px;
+    height: 20px;
+    border-radius: 15px;
+    background-color: white;
+    display: inline-block;
+  }
+  
+  .left_eye {
+    margin-left: 30px;
+  }
+  
+  .right_eye {
+    margin-left: 100px;
+  }
+  
+  .upper_body {
+    width: 300px;
+    height: 150px;
+    margin: 0 auto;
+    display: flex;
+  }
+  
+  .left_arm,
+  .right_arm {
+    width: 40px;
+    height: 125px;
+    border-radius: 100px;
+    margin-top: 20px;
+  }
+  
+  .left_arm {
+    margin-right: 10px;
+  }
+  
+  .left_arm {
+    margin-right: 10px;
+  }
+  
+  .right_arm {
+    margin-left: 10px;
+  }
+  
+  .torso {
+    width: 200px;
+    height: 200px;
+    border-radius: 0 0 50px 50px;
+    transition: border-radius 1s;
+  }
+  
+  .lower_body {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  
+  .left_leg,
+  .right_leg {
+    width: 40px;
+    height: 120px;
+    border-radius: 0 0 100px 100px;
+    display: inline-block;
+  }
+  
+  .left_leg {
+    margin-left: 45px;
+  }
+  
+  .right_leg {
+    margin-left: 30px;
+  }
+  
+  .robots:hover .head {
+    animation: movehead 2s infinite;
+  }
+  
+  .robots:hover .torso {
+    border-radius: 40%;
+    animation: movetorso 2s infinite;
+  }
+  
+  .robots:hover .left_arm {
+    animation: moveleftarm 2s infinite;
+  }
+  
+  .robots:hover .right_arm {
+    animation: moverightarm 2s infinite;
+  }
+  
+  .robots:hover .left_leg {
+    animation: moveleftleg 2s infinite;
+  }
+  
+  .robots:hover .right_leg {
+    animation: moverightleg 2s infinite;
+  }
+  
+  @keyframes movehead {
+    0% {
+      width: 200px;
+    }
+  
+    25% {
+      width: 300px;
+    }
+  
+    50% {
+      width: 200px;
+    }
+  
+    75% {
+      width: 300px;
+    }
+  
+    100% {
+      width: 200px;
+    }
+  }
+  
+  @keyframes moveleftarm {
+    0% {
+      transform: rotate(0deg);
+      transform-origin: top center;
+    }
+  
+    25% {
+      transform: rotate(90deg);
+      transform-origin: top center;
+    }
+  
+    50% {
+      transform: rotate(0deg);
+      transform-origin: top center;
+    }
+  
+    75% {
+      transform: rotate(90deg);
+      transform-origin: top center;
+    }
+  
+    100% {
+      transform: rotate(0deg);
+      transform-origin: top center;
+    }
+  }
+  
+  @keyframes moverightarm {
+    0% {
+      transform: rotate(0deg);
+      transform-origin: top center;
+    }
+  
+    25% {
+      transform: rotate(-90deg);
+      transform-origin: top center;
+    }
+  
+    50% {
+      transform: rotate(0deg);
+      transform-origin: top center;
+    }
+  
+    75% {
+      transform: rotate(-90deg);
+      transform-origin: top center;
+    }
+  
+    100% {
+      transform: rotate(0deg);
+      transform-origin: top center;
+    }
+  }
+  
+  @keyframes moveleftleg {
+    0% {
+      transform: rotate(0deg);
+    }
+  
+    25% {
+      transform: rotate(20deg);
+    }
+  
+    50% {
+      transform: rotate(0deg);
+    }
+  
+    75% {
+      transform: rotate(20deg);
+    }
+  
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+  
+  @keyframes moverightleg {
+    0% {
+      transform: rotate(0deg);
+    }
+  
+    25% {
+      transform: rotate(-20deg);
+    }
+  
+    50% {
+      transform: rotate(0deg);
+    }
+  
+    75% {
+      transform: rotate(-20deg);
+    }
+  
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+  
+  @keyframes movetorso {
+    from {
+      transform: rotate(0deg);
+    }
+  
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
